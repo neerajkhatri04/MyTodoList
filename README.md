@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajkhatri04&label=Profile%20views&color=0e75b6&style=flat" alt="neerajkhatri04" /> </p>
 
-- Here's the project link [MyTodoList](https://my-todo-list-neeraj.cyclic.app)
+- Here's the App link [MyTodoList](https://my-todo-list-neeraj.cyclic.app)
   
   #Features
   
