@@ -12,7 +12,7 @@
   - Mark items as completed.
   - Delete items.
   - Persistent storage using MongoDB.
-  - Use Random or hidden Todo List just by typing any name at the end of website Link (https://my-todo-list-neeraj.cyclic.app) eg. `https://my-todo-list-neeraj.cyclic.app/xyz`.
+  - Use Random or hidden Todo List just by typing any name at the end of website Link (https://my-todo-list-neeraj.cyclic.app).  eg. `https://my-todo-list-neeraj.cyclic.app/xyz`.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/neerajkhatri04](https://github.com/neerajkhatri04)
