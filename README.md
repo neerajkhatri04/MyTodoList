@@ -69,11 +69,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Configure app
 
-Open `app.js` then edit it with your settings. You will need:
+Open `app.js` then edit it with your settings.
 
-- A setting;
-- Another setting;
-- One more setting;
 
 ## Running the project
 
