@@ -1,3 +1,5 @@
+<h1 align="center">Todo Web App<h1>
+
 <h3 align="center">This repository contains the code for a simple Todo List web application. The application is built using MongoDB as the database, JavaScript for the backend and frontend, and various other technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajkhatri04&label=Profile%20views&color=0e75b6&style=flat" alt="neerajkhatri04" /> </p>
