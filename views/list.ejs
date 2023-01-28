@@ -1,0 +1,41 @@
+<%- include("header") -%>
+
+    <div class="box" id="heading">
+        <h1>
+            <%= todoTitle %>
+        </h1>
+    </div>
+
+    <div class="box">
+        
+           <% newListItems.forEach(function(item){ %>
+            <form action="/delete" method="post">
+                <div class="item checkbox-wrapper-2">
+                    <input type="checkbox" class="myCheck sc-gJwTLC ikxBAC" name="checkBox" onclick="myFunction()"> 
+                    <p class="item-name">  <%= item.name %> </p>
+                    <button class="deleteBtn" type="submit" style="display: none" name="deleteButton" value="<%=item._id%>"><i class="fa-solid fa-trash-can"></i></button>
+
+                   
+
+                </div>
+                <input type="hidden" name="listName" value="<%= todoTitle %>">
+            </form>
+           <% }); %>
+        
+
+
+        <form class="item" action="/" method="post">
+            <input type="text" name="newItem" placeholder="Add New" autocomplete="off">
+            <button class="add button-78" role="button" type="submit" name="todoName" value="<%= todoTitle %>">+</button>
+        </form>
+    </div>
+    
+<%- include("footer") -%>
+
+  <!-- HTML !-->
+  <!-- <button class="button-78" role="button">Button 78</button> -->
+
+<!-- <div class="checkbox-wrapper-2">
+    <input type="checkbox" class="sc-gJwTLC ikxBAC">
+  </div>
+     -->
